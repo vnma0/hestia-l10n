@@ -1,5 +1,5 @@
-import vi_VN from './strings/global/vi-VN.json';
-import en_US from './strings/global/en-US.json';
+import vi_VN from './global/vi-VN.json';
+import en_US from './global/en-US.json';
 
 let out = {
     vi_VN: { display: vi_VN.display, resources: vi_VN.resources },

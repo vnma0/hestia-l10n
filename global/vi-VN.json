@@ -58,8 +58,14 @@
             "table": {
                 "head": {
                     "name": "Tên",
-                    "score": "Điểm",
-                    "acceptedCount": "AC"
+                    "score": {
+                        "oi" : "Điểm",
+                        "acm" : "Tổng thời gian phạt"
+                    },
+                    "acceptedCount": {
+                        "oi" : "AC",
+                        "acm" : "Số lần nộp"
+                    }
                 }
             }
         },

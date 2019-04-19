@@ -58,8 +58,14 @@
             "table": {
                 "head": {
                     "name": "Name",
-                    "score": "Score",
-                    "acceptedCount": "AC"
+                    "score": {
+                        "oi" : "Score",
+                        "acm" : "Penalty"
+                    },
+                    "acceptedCount": {
+                        "oi" : "AC",
+                        "acm" : "No. of subs"
+                    }
                 }
             }
         },

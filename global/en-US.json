@@ -54,6 +54,15 @@
             "launcher": "Homepage"
         },
         "scoreboard": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Sorry, but something has failed to work.",
+                        "Please check your connection."
+                    ],
+                    "control.reload" : "I'm sure issues are fixed."
+                }
+            },
             "launcher": "Scoreboard",
             "table": {
                 "head": {
@@ -70,6 +79,15 @@
             }
         },
         "problems": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Error occured during execution - is your connection working?",
+                        "Feel free to retry."
+                    ],
+                    "control.reload" : "Retry"
+                }
+            },
             "launcher": "Problems",
             "codeEditor": {
                 "control": {
@@ -90,6 +108,15 @@
             }
         },
         "submissions": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Something was wrong while we get your submissions.",
+                        "Check your connection."
+                    ],
+                    "control.reload" : "I'm sure nothing is wrong."
+                }
+            },
             "launcher": "Submissions",
             "control": {
                 "reloadButton": {

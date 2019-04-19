@@ -54,6 +54,15 @@
             "launcher": "Trang chủ"
         },
         "scoreboard": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Có lỗi xảy ra trong khi tải bảng điểm.",
+                        "Hãy kiểm tra kết nối của bạn."
+                    ],
+                    "control.reload" : "Kết nối của tôi vẫn bình thường."
+                }
+            },
             "launcher": "Bảng điểm",
             "table": {
                 "head": {
@@ -70,6 +79,15 @@
             }
         },
         "problems": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Có lỗi xảy ra khi chạy chương trình - có thể kết nối có vấn đề?",
+                        "Bạn có thể thử lại."
+                    ],
+                    "control.reload" : "Thử lại"
+                }
+            },
             "launcher": "Đề bài",
             "codeEditor": {
                 "control": {
@@ -90,6 +108,15 @@
             }
         },
         "submissions": {
+            "lazyAssistant" : {
+                "failedLoadInfo" : {
+                    "text" : [
+                        "Có lỗi xảy ra khi tải các bài nộp.",
+                        "Vui lòng kiểm tra kết nối của bạn."
+                    ],
+                    "control.reload" : "Thử lại lần nữa"
+                }
+            },
             "launcher": "Các bài nộp",
             "control": {
                 "reloadButton": {

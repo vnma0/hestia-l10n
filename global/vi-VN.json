@@ -95,6 +95,10 @@
                         "tooltip": "Chọn ngôn ngữ lập trình",
                         "nullChoice": "Chọn ngôn ngữ lập trình"
                     },
+                    "themeSelector" : {
+                        "tooltip": "Chọn giao diện",
+                        "nullChoice": "Chọn giao diện"
+                    },
                     "uploadButtonTooltip": "Tải một tập tin vào trình soạn thảo. Ghi đè mọi dữ liệu hiện có",
                     "submitButton": "Nộp bài"
                 }

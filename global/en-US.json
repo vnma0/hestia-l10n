@@ -95,6 +95,10 @@
                         "tooltip": "Choose language",
                         "nullChoice": "Choose language"
                     },
+                    "themeSelector" : {
+                        "tooltip": "Choose a theme",
+                        "nullChoice": "Choose a theme"
+                    },
                     "uploadButtonTooltip": "Load a file into the editor. Overwrite existing content.",
                     "submitButton": "Submit"
                 }

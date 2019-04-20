@@ -64,6 +64,11 @@
                 }
             },
             "launcher": "Bảng điểm",
+            "reload" : {
+                "updating" : "Đang cập nhật...",
+                "updateAction" : "Cập nhật",
+                "lastUpdateTimestamp" : "Lần cập nhật cuối"
+            },
             "table": {
                 "head": {
                     "name": "Tên",

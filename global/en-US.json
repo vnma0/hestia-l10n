@@ -64,6 +64,11 @@
                 }
             },
             "launcher": "Scoreboard",
+            "reload" : {
+                "updating" : "Updating...",
+                "updateAction" : "Update",
+                "lastUpdateTimestamp" : "Last updated"
+            },
             "table": {
                 "head": {
                     "name": "Name",

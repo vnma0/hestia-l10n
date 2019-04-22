@@ -48,6 +48,9 @@
                 "beforeStart": "before start",
                 "timeLeft": "Time left",
                 "ended": "Ended"
+            },
+            "staticLoader" : {
+                "failed" : "Failed to load data"
             }
         },
         "homepage": {

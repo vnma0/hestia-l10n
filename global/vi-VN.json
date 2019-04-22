@@ -48,6 +48,9 @@
                 "beforeStart": "trước khi bắt đầu kỳ thi",
                 "timeLeft": "Thời gian còn lại",
                 "ended": "Kỳ thi đã kết thúc"
+            },
+            "staticLoader" : {
+                "failed" : "Có lỗi xảy ra khi tải dữ liệu."
             }
         },
         "homepage": {

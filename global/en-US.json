@@ -34,7 +34,8 @@
                     "entry": {
                         "password": {
                             "title": "Password",
-                            "invokingButton": "Change your password"
+                            "invokingButton": "Change your password",
+                            "error" : "Failed to change your password."
                         },
                         "language": {
                             "title": "Language",

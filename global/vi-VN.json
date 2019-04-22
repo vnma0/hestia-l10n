@@ -34,7 +34,8 @@
                     "entry": {
                         "password": {
                             "title": "Mật khẩu",
-                            "invokingButton": "Thay đổi mật khẩu"
+                            "invokingButton": "Thay đổi mật khẩu",
+                            "error" : "Thay đổi mật khẩu thất bại."
                         },
                         "language": {
                             "title": "Ngôn ngữ",

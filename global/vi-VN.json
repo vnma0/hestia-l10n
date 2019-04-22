@@ -2,6 +2,9 @@
     "language": "vi_VN",
     "display": "Vietnamese (tiếng Việt)",
     "resources": {
+        "global" : {
+            "loggedOut" : "Vui lòng đăng nhập trước."
+        },
         "globalStatusBar": {
             "login": {
                 "invokingButton": "Đăng nhập",

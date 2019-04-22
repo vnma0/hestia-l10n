@@ -88,6 +88,9 @@
                         "acm" : "Số lần nộp"
                     }
                 }
+            },
+            "error" : {
+                "failTrans" : "Có lỗi khi tải bảng điểm."
             }
         },
         "problems": {
@@ -113,12 +116,15 @@
                     },
                     "uploadButtonTooltip": "Tải một tập tin vào trình soạn thảo. Ghi đè mọi dữ liệu hiện có",
                     "submitButton": "Nộp bài"
+                },
+                "error" : {
+                    "tooLarge" : "File của bạn quá lớn!"
                 }
             },
             "notify": {
                 "success": "Mã nguồn của bạn đã được nộp thành công!",
                 "error": {
-                    "failStat": "Lỗi trong quá trình nộp bài : {error}",
+                    "failStat": "Lỗi trong quá trình nộp bài : ${error}",
                     "failTrans": "Lỗi trong quá trình nộp bài : kết nối tới máy chủ thất bại"
                 }
             }

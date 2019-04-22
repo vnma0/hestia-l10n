@@ -88,6 +88,9 @@
                         "acm" : "No. of subs"
                     }
                 }
+            },
+            "error" : {
+                "failTrans" : "Failed to load scores."
             }
         },
         "problems": {
@@ -113,12 +116,15 @@
                     },
                     "uploadButtonTooltip": "Load a file into the editor. Overwrite existing content.",
                     "submitButton": "Submit"
+                },
+                "error" : {
+                    "tooLarge" : "Your file is too large!"
                 }
             },
             "notify": {
                 "success": "Successfully submitted solution",
                 "error": {
-                    "failStat": "Failure during submission : {error}",
+                    "failStat": "Failure during submission : ${error}",
                     "failTrans": "Failed to submit. It seems like a transmission error..."
                 }
             }

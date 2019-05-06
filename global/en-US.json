@@ -153,7 +153,7 @@
                     "tooltip": "Update the data & change back to first page"
                 },
                 "rowsPerPageChange": "Rows per page : ",
-                "indexOfTotal": "{from}-{to} of {count}"
+                "indexOfTotal": "{{from}}-{{to}} of {{count}}"
             },
             "table": {
                 "contestant": "Submitted by",

@@ -124,7 +124,7 @@
             "notify": {
                 "success": "Mã nguồn của bạn đã được nộp thành công!",
                 "error": {
-                    "failStat": "Lỗi trong quá trình nộp bài : ${error}",
+                    "failStat": "Lỗi trong quá trình nộp bài",
                     "failTrans": "Lỗi trong quá trình nộp bài : kết nối tới máy chủ thất bại"
                 }
             }

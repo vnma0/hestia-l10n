@@ -124,7 +124,7 @@
             "notify": {
                 "success": "Successfully submitted solution",
                 "error": {
-                    "failStat": "Failure during submission : ${error}",
+                    "failStat": "Failure during submission",
                     "failTrans": "Failed to submit. It seems like a transmission error..."
                 }
             }

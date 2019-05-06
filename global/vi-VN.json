@@ -35,6 +35,22 @@
                         "password": {
                             "title": "Mật khẩu",
                             "invokingButton": "Thay đổi mật khẩu",
+                            "dialog" : {
+                                "title" : "Thay đổi mật khẩu của",
+                                "notice" : [
+                                    "Độ dài mật khẩu phải nằm trong khoảng từ 6 đến 18 ký tự.",
+                                    "Bạn sẽ bị đăng xuất nếu đổi mật khẩu thành công - hãy cẩn thận."
+                                ],
+                                "labels" : {
+                                    "old" : "Mật khẩu cũ",
+                                    "new" : "Mật khẩu mới",
+                                    "verify" : "Xác nhận mật khẩu"
+                                },
+                                "controls" : {
+                                    "cancel" : "Hủy",
+                                    "proceed" : "Đổi mật khẩu"
+                                }
+                            },
                             "error" : "Thay đổi mật khẩu thất bại."
                         },
                         "language": {

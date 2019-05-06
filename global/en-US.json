@@ -35,6 +35,22 @@
                         "password": {
                             "title": "Password",
                             "invokingButton": "Change your password",
+                            "dialog" : {
+                                "title" : "Changing password for",
+                                "notice" : [
+                                    "Password length must be longer than 6 and smaller than 18.",
+                                    "Upon successful operation you will be logged out - be careful."
+                                ],
+                                "labels" : {
+                                    "old" : "Old password",
+                                    "new" : "New password",
+                                    "verify" : "Verify password"
+                                },
+                                "controls" : {
+                                    "cancel" : "Cancel",
+                                    "proceed" : "Change your password"
+                                }
+                            },
                             "error" : "Failed to change your password."
                         },
                         "language": {

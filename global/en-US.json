@@ -67,7 +67,9 @@
                         "Sorry, but something has failed to work.",
                         "Please check your connection."
                     ],
-                    "control.reload" : "I'm sure issues are fixed."
+                    "control" : {
+                        "reload" : "I'm sure issues are fixed."
+                    }
                 }
             },
             "launcher": "Scoreboard",
@@ -100,7 +102,9 @@
                         "Error occured during execution - is your connection working?",
                         "Feel free to retry."
                     ],
-                    "control.reload" : "Retry"
+                    "control" : {
+                        "reload" : "Retry"
+                    }
                 }
             },
             "launcher": "Problems",
@@ -136,7 +140,9 @@
                         "Something was wrong while we get your submissions.",
                         "Check your connection."
                     ],
-                    "control.reload" : "I'm sure nothing is wrong."
+                    "control" : {
+                        "reload" : "I'm sure nothing is wrong."
+                    }
                 }
             },
             "launcher": "Submissions",
@@ -172,7 +178,11 @@
                         "loading": "Loading source code...",
                         "noCode": ["No code is available.", "What are you expecting?"]
                     },
-                    "dialog.controls.close": "Close"
+                    "dialog" : {
+                        "controls" : {
+                            "close": "Close"
+                        }
+                    }
                 }
             },
             "verdict": {

@@ -179,7 +179,8 @@
                 "executionTime": "Thời gian thực thi",
                 "memory": "Bộ nhớ chiếm dụng",
                 "timestamp": "Thời gian nộp",
-                "points": "Số điểm nhận được"
+                "points": "Số điểm nhận được",
+                "totalPoints" : "Tổng số điểm nhận được"
             },
             "details": {
                 "control": {

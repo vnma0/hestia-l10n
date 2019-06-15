@@ -17,7 +17,8 @@
                         "cancel": "Hủy",
                         "login": "Đăng nhập"
                     },
-                    "errorText": "Đăng nhập thất bại."
+                    "errorText": "Đăng nhập thất bại.",
+                    "successText": "Đăng nhập thành công. Bạn đang được điều hướng trở lại trang chủ kỳ thi."
                 }
             },
             "userSetting": {

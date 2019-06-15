@@ -17,7 +17,8 @@
                         "cancel": "Cancel",
                         "login": "Log in"
                     },
-                    "errorText": "Failed to log in."
+                    "errorText": "Failed to log in.",
+                    "successText": "Successfully logged in. You are being redirected to the main contest page."
                 }
             },
             "userSetting": {

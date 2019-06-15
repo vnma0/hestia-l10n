@@ -3,7 +3,13 @@
     "display": "Vietnamese (tiếng Việt)",
     "resources": {
         "global" : {
-            "loggedOut" : "Vui lòng đăng nhập trước."
+            "loggedOut" : "Vui lòng đăng nhập trước.",
+            "loading": {
+                "public": "Đang tải thông tin kỳ thi...",
+                "verifyCredential": "Đang kiểm tra quyền truy cập...",
+                "done": "Đã xong. Đang chuyển tới trang chủ kỳ thi...",
+                "failSuffix": " [Thất bại]"
+            }
         },
         "globalStatusBar": {
             "login": {

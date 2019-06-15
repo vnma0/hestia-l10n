@@ -3,7 +3,13 @@
     "display": "English (United States)",
     "resources": {
         "global" : {
-            "loggedOut" : "Please login first."
+            "loggedOut" : "Please login first.",
+            "loading": {
+                "public": "Loading contest information...",
+                "verifyCredential": "Verifying access...",
+                "done": "Done, proceeding to main contest area...",
+                "failSuffix": " [Failed]"
+            }
         },
         "globalStatusBar": {
             "login": {

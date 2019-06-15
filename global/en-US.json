@@ -71,7 +71,7 @@
                 "ended": "Ended"
             },
             "staticLoader" : {
-                "failed" : "Failed to load data"
+                "failed" : "Failed to load contest data"
             }
         },
         "homepage": {

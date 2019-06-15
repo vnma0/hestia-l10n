@@ -71,7 +71,7 @@
                 "ended": "Kỳ thi đã kết thúc"
             },
             "staticLoader" : {
-                "failed" : "Có lỗi xảy ra khi tải dữ liệu."
+                "failed" : "Có lỗi xảy ra khi tải dữ liệu kỳ thi."
             }
         },
         "homepage": {
